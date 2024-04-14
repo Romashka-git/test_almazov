@@ -1,3 +1,4 @@
-name = 'QWERTY'
+def main():
+    name = 'QWERTY'
 
-print(f'Hello, {name}')
+    print(f'Hello, {name}!')
